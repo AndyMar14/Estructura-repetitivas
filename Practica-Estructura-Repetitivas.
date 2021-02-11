@@ -1,0 +1,55 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+      /*Crear un programa que pida números positivos al usuario, y vaya calculando
+      la suma de todos ellos (terminará cuando se teclea un número negativo o cero).
+      */
+		/*Console.WriteLine("Escriba los números que desee mayor que 0");
+		int Numero = 1;
+		int Suma = 0;		
+
+		while (Numero > 0){
+				Numero = int.Parse(Console.ReadLine());
+				if(Numero < 0){
+					break;
+				}else{
+					Suma = Suma + Numero;
+				}
+				
+			}
+		Console.WriteLine("La suma de los números es "+Suma);*/
+
+
+  /*Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while".*/
+  /*Console.WriteLine("Numero del 1 al 10");
+		int Numero = 1;
+		do{
+			Console.WriteLine(Numero);
+			Numero ++;
+		}while (Numero <= 10);
+		*/
+    
+	/*Crear un programa que muestre los primeros 10 números pares a partir del producto de (10 x 10).*/
+  /*Console.WriteLine("Numero parares a partir de prducto de 10*10");
+		int Contador = 1;
+		int Producto = 10*10;
+	
+		while (Contador <= 20){
+				if((Producto + Contador) % 2 == 0){
+				Console.WriteLine((Producto + Contador));
+				Contador ++;
+			}else{
+				Contador ++;
+			}
+		}*/
+    /*Crear un programa que muestre las letras de la Z (mayúscula) a la A (mayúscula, descendiendo).*
+    /*char letra;
+ 
+        for (letra='Z'; letra>='A'; letra--)
+            Console.Write("{0} ", letra);
+            */
+	}
+}
