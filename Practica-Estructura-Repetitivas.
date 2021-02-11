@@ -33,7 +33,7 @@ public class Program
 		*/
     
 	/*Crear un programa que muestre los primeros 10 números pares a partir del producto de (10 x 10).*/
-  /*Console.WriteLine("Numero parares a partir de prducto de 10*10");
+  /*Console.WriteLine("10 Numeros parares a partir de producto de 10*10");
 		int Contador = 1;
 		int Producto = 10*10;
 	
